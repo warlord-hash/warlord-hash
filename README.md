@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey there!
+I'm sierra, a web developer from Russia!
 
-<!--
-**warlord-hash/warlord-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly work on closed source projects, but I can contribute sometimes!
 
-Here are some ideas to get you started:
+## Languages known
+I currently know:
+* PHP
+* C#
+* C++
+* Python (basic knowledge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+I'm currently mostly experienced in PHP (been working with it for over 2 years) and C# (mainly used in Unity)
+
+![sierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=warlord-hash&show_icons=true&theme=dracula)
