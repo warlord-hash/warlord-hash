@@ -1,5 +1,5 @@
 # Hey there!
-I'm sierra, a web developer and game developer from Russia!
+I'm sierra, a web developer and game developer!
 
 ## Languages known
 I currently know:
